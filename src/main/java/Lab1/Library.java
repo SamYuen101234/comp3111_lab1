@@ -14,4 +14,7 @@ public class Library {
     public boolean someLibraryMethod() {
     	return true;
     }
+    public static int hello() {
+    	return 3;
+    }
 }
